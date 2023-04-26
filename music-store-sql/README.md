@@ -9,7 +9,7 @@ In this project I used SQL to do data analysis and answer some questions using v
 * Jupyter Notebook 
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](/source/schema_diagram.png)  
+![MusicDatabaseSchema](https://github.com/Tashish97/sql-projects/blob/main/music-store-sql/source/schema_diagram.png)  
   
 ## Questions  
 1.  Who is the senior most employee based on job title? 
